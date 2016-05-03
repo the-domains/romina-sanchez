@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[romina sanchez]]></title>
+        <description><![CDATA[romina sanchez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 02:39:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reeducación de estilos de vida y alimentación saludable</p>]]></description>
+            <link>undefinedreeducacion-de-estilos-de-vida-y-alimentacion-saludable/index.html</link>
+            <guid isPermaLink="false">cecb9ae9-76b6-48e0-a371-12db7b89d6d5</guid>
+            <pubDate>Tue, 03 May 2016 02:39:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
